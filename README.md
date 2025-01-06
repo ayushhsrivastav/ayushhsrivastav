@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Ayush Srivastav<br>SWE || Backend Developer || Full Stack Developer</p>
+<p align="left">Ayush Srivastav<br>SWE @ SignDesk<br>Backend Developer || Full Stack Developer</p>
 
 ###
 
