@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Ayush Srivastav<br>SWE @ Nike<br>Backend Developer || Full Stack Developer</p>
+<p align="left">Ayush Srivastav<br>SWE @ Nike<br>Full Stack Developer</p>
 
 ###
 
